@@ -200,8 +200,15 @@ custom:
     <!-- 直接添加html内容即可 -->
     <!-- 可设置多行 -->
   body: |- # 以下内容插入到</body>标签之前，可设置多行，注意每行开头至少四个空格
-    <!-- 直接添加html内容即可 -->
-    <!-- 可设置多行 -->
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-6TB81WXFW1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-6TB81WXFW1');
+    </script>
 
 js:
   header: /js/header.js
