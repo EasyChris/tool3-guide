@@ -2,9 +2,9 @@ favicon: /favicon.ico
 banner: /images/webstack_banner_cn.png
 
 logo:
-  expanded: /images/logo@2x.png
-  collapsed: /images/logo-collapsed@2x.png
-  dark: /images/logo_dark@2x.png
+  expanded: /images/logo.png
+  collapsed: /images/logo-2.png
+  dark: /images/logo.png
 
 flag:
   - name: Chinese
@@ -164,11 +164,6 @@ devTools:
     img: /images/logos/github.png
     description: 面向开源及私有软件项目的托管平台。
 
-myBlog:
-  - name: HCLonely Blog
-    url: https://blog.hclonely.com/
-    img: /images/logos/myBlog.png
-    description: 一个懒人的博客。
 
 about:
   url: /about/
@@ -178,14 +173,14 @@ about:
 aboutPage:
   website:
     head: 关于本站
-    html: '<blockquote><p>本站是hexo主题<a href="https://github.com/HCLonely/hexo-theme-webstack">hexo-theme-webstack</a>的demo站。</p></blockquote>'
+    html: '<blockquote><p>本站是<a href="https://github.com/EasyChris">EasyPlux</a>的个人导航站，收集web3高频使用的站点，开源地址：https://github.com/EasyChris/tool3-guide.git</p></blockquote>'
   webmaster:
     head: 关于站长
-    name: HCLonely
-    url: https://blog.hclonely.com/
-    img: /images/logos/myblog.png
-    description: 懒人一个
-    html: '<br /><blockquote><p>本站是<a href="https://github.com/HCLonely">HCLonely</a>基于<a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStackPage</a>项目做的一款<a href="https://hexo.io/">Hexo</a>主题。</p></blockquote>'
+    name: EasyPlux
+    url: https://afox.cc
+    img: https://afox-1256168983.cos.ap-shanghai.myqcloud.com/20220522145727.png
+    description: 探索所有web3的可能性。
+    html: ''
 
 since: 2022
 
