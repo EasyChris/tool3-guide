@@ -31,15 +31,18 @@ menu:
   - name: 数据查询
     icon: far fa-star
     config: dataScan
-  - name: 开发教程
-    icon: far fa-star
-    config: devTutorial
   - name: 数据分析
     icon: far fa-star
     config: dataAnalyze
   - name: NFT
     icon: far fa-star
     config: nft
+  - name: 开发教程
+    icon: far fa-star
+    config: devTutorial
+  - name: 节点提供商
+    icon: far fa-star
+    config: nodeProvider
   # - name: 其他工具
   #   icon: fas fa-tools
   #   submenu:
@@ -53,19 +56,27 @@ menu:
 dataScan:
   - name: EtherScan
     url:  https://etherscan.io/
-    img:  https://etherscan.io/images/ethereum-icon.png
+    img:  https://afox-1256168983.cos.ap-shanghai.myqcloud.com/20220814094411.png
     description: ETH 智能链浏览器
   - name: BSCScan
     url:  https://bscscan.com/
-    img:  https://bscscan.com/images/logo-bscscan.svg?v=0.0.3
+    img:  https://afox-1256168983.cos.ap-shanghai.myqcloud.com/20220814094308.png
     description: BNB 智能链浏览器
   - name: PolygonScan
     url:  https://polygonscan.com/
     img:  https://polygonscan.com/images/favicon.ico
     description: BNB 智能链浏览器
+  - name: Solscan
+    url:  https://solscan.io/
+    img:  https://afox-1256168983.cos.ap-shanghai.myqcloud.com/20220814094532.png
+    description: SolScan 智能链浏览器
+  - name: 
+    url:  https://www.oklink.com/zh-cn
+    img:  https://afox-1256168983.cos.ap-shanghai.myqcloud.com/20220814094702.png
+    description: 聚合区块链浏览器
   - name: DeBank
     url:  https://debank.com/
-    img:  https://assets.debank.com/static/media/logo-horizon-white.1cb9f141.svg
+    img:  /images/logos/debank.svg
     description: 资产聚合查询
 
 devTutorial:
@@ -94,7 +105,7 @@ devTutorial:
 nft:
   - name: NFTscan
     url:  https://nftscan.com/
-    img:  https://www.nftscan.com/static/logo.ee63496c.svg
+    img:  https://pbs.twimg.com/profile_images/1465608695941775364/2bMJNG-x_200x200.png
     description: 以太坊的 NFT 探索者
   - name: NFTnerds
     url:  https://nftnerds.ai/
@@ -108,7 +119,7 @@ dataAnalyze:
     description: Dune链上数据分析平台.提供数据可视化、数据分析等功能.
   - name: Nansen.ai
     url:  https://www.nansen.ai/
-    img:  https://assets-global.website-files.com/60118ca18674407b85935203/60119400ef014727826360d9_nansen_logo.png
+    img:  https://afox-1256168983.cos.ap-shanghai.myqcloud.com/20220814094157.png
     description: 链上聪明地址分析查询。
   - name: Messari.io
     url:  https://messari.io/
@@ -116,7 +127,7 @@ dataAnalyze:
     description: 区块链技术指标查询工具。
   - name: Glassnode 
     url:  https://glassnode.com/
-    img:  https://studio.glassnode.com/images/glassnode-studio.svg
+    img:  https://img.foresightnews.pro/202208/8-1659600018811.png 
     description: Glassnode 提供链上数据指标分析平台.
   - name: Lianshucha 
     url:  lianshucha.com
@@ -124,6 +135,23 @@ dataAnalyze:
     description: 链数查：链上数据使投资变得更透明.
 
 
+nodeProvider:
+  - name: Alchemy
+    url:  https://www.alchemy.com/
+    img:  https://afox-1256168983.cos.ap-shanghai.myqcloud.com/20220814095312.png
+    description: web3开发者平台
+  - name: ChainBase
+    url:  https://chainbase.online/
+    img:  https://pbs.twimg.com/profile_images/1483050749781487618/dLFnBl2O_200x200.jpg
+    description: web3开发者平台
+  - name: Infura
+    url:  https://infura.io/
+    img:  https://pbs.twimg.com/profile_images/1357501845145485316/yo6M6Y9u_200x200.jpg
+    description: web3节点提供者
+  - name: Blocknative
+    url:  https://www.blocknative.com/
+    img:  https://www.blocknative.com/hubfs/Icons%20and%20Illustrations/blocknative%20favicon.png
+    description: 领先的数据提供者
 
 
 devTools:
