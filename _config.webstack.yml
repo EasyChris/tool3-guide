@@ -122,7 +122,7 @@ nft:
   - name: NFTtrack
     url:  https://nfttrack.ai
     img:  https://pbs.twimg.com/profile_images/1515963632726646787/-yB33qdZ_bigger.jpg
-    description: NFT趋势追踪
+    description: 跟踪NFT鲸鱼赚钱  
   - name: NFTgo
     url:  https://nftgo.io/
     img:  https://pbs.twimg.com/profile_images/1475300585196777472/GYA3Y-EC_200x200.jpg
@@ -130,7 +130,7 @@ nft:
   - name: NFTflip
     url:  https://review.nftflip.ai/signin?invite=TOOL3
     img:  https://pbs.twimg.com/profile_images/1524929130424283136/-KrhIWnu_200x200.jpg
-    description: 跟踪NFT鲸鱼赚钱
+    description: 帮助NFT交易者快速的抓住交易机会
 
 dataAnalyze:
   - name: Dune.xyz
