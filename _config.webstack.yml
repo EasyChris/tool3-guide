@@ -157,7 +157,10 @@ dataAnalyze:
     url:  https://defillama.com/
     img:  https://pbs.twimg.com/profile_images/1377743719089254405/LQwS_x0l_200x200.jpg
     description: 链上DEFI面板
-
+  - name: Datamish 
+    url:  https://datamish.com/
+    img:  https://afox-1256168983.cos.ap-shanghai.myqcloud.com/20220814112304.png
+    description: 合约多空比
 
 nodeProvider:
   - name: Alchemy
