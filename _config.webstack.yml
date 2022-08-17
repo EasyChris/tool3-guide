@@ -159,7 +159,7 @@ dataAnalyze:
     description: 链上DEFI面板
   - name: Datamish 
     url:  https://datamish.com/
-    img:  https://afox-1256168983.cos.ap-shanghai.myqcloud.com/20220814112304.png
+    img:  https://afox-1256168983.cos.ap-shanghai.myqcloud.com/20220817164837.png
     description: 合约多空比
   - name: Eigenphi 
     url:  https://eigenphi.io/
