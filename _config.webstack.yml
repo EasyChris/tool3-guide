@@ -161,6 +161,10 @@ dataAnalyze:
     url:  https://datamish.com/
     img:  https://afox-1256168983.cos.ap-shanghai.myqcloud.com/20220814112304.png
     description: 合约多空比
+  - name: Eigenphi 
+    url:  https://eigenphi.io/
+    img:  https://afox-1256168983.cos.ap-shanghai.myqcloud.com/20220814094411.png
+    description: 实时mev数据分析
 
 nodeProvider:
   - name: Alchemy
