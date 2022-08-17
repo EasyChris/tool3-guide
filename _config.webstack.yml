@@ -217,7 +217,7 @@ since: 2022
 
 busuanzi:
   enable: true
-  position: sidebar # 'footer','sidebar'
+  position: footer # 'footer','sidebar'
   pv: 本站总访问量$pv
   uv: 本站总访客数$uv
 
