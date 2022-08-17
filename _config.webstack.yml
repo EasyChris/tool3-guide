@@ -28,12 +28,12 @@ userDefinedSearchData:
 
 expandAll: true
 menu:
-  - name: 数据查询
-    icon: far fa-star
-    config: dataScan
   - name: 数据分析
     icon: far fa-star
     config: dataAnalyze
+  - name: 数据查询
+    icon: far fa-star
+    config: dataScan
   - name: NFT
     icon: far fa-star
     config: nft
@@ -163,7 +163,7 @@ dataAnalyze:
     description: 合约多空比
   - name: Eigenphi 
     url:  https://eigenphi.io/
-    img:  https://afox-1256168983.cos.ap-shanghai.myqcloud.com/20220814094411.png
+    img:  https://pbs.twimg.com/profile_images/1497044326102478851/XX8ql646_400x400.jpg
     description: 实时mev数据分析
 
 nodeProvider:
