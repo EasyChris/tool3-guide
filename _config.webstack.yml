@@ -165,6 +165,10 @@ dataAnalyze:
     url:  https://eigenphi.io/
     img:  https://pbs.twimg.com/profile_images/1497044326102478851/XX8ql646_400x400.jpg
     description: 实时mev数据分析
+  - name: Tokenterminal 
+    url:  https://tokenterminal.com/
+    img:  https://pbs.twimg.com/profile_images/1391638489674956800/BtWIWQZJ_400x400.jpg
+    description: 实时mev数据分析
 
 nodeProvider:
   - name: Alchemy
