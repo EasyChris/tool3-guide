@@ -80,11 +80,11 @@ dataScan:
     description: 资产聚合查询
   - name: Coingecko
     url:  https://www.coingecko.com/
-    img:  https://pbs.twimg.com/profile_images/1514859270973509634/li7oAIx8_200x200.jpg
+    img:  /images/logos/coingecko.jpeg 
     description: 加密货币汇率、图表和加密货币市值
   - name: Coinmarketcap
     url:  https://coinmarketcap.com
-    img:  https://pbs.twimg.com/profile_images/1521694222734495744/q2VAXMgE_200x200.jpg 
+    img:  /images/logos/coinmarketcap.jpeg 
     description: 数字货币行情,最新加密货币价格走势
 
 devTutorial:
@@ -113,7 +113,7 @@ devTutorial:
 nft:
   - name: NFTscan
     url:  https://nftscan.com/
-    img:  https://pbs.twimg.com/profile_images/1465608695941775364/2bMJNG-x_200x200.png
+    img:  /images/logos/nftscan.png  
     description: 以太坊的 NFT 探索者
   - name: NFTnerds
     url:  https://nftnerds.ai/
@@ -121,7 +121,7 @@ nft:
     description: NFT趋势追踪
   - name: NFTtrack
     url:  https://nfttrack.ai
-    img:  https://pbs.twimg.com/profile_images/1515963632726646787/-yB33qdZ_bigger.jpg
+    img:  /images/logos/nfttrack.jpeg
     description: 跟踪NFT鲸鱼赚钱  
   - name: NFTgo
     url:  https://nftgo.io/
@@ -149,10 +149,6 @@ dataAnalyze:
     url:  https://glassnode.com/
     img:  https://img.foresightnews.pro/202208/8-1659600018811.png 
     description: Glassnode 提供链上数据指标分析平台
-  - name: Lianshucha 
-    url:  https://lianshucha.com/ 
-    img:  https://pbs.twimg.com/profile_images/1428294609176653830/e95WpzE7_400x400.jpg
-    description: 链数查：链上数据使投资变得更透明
   - name: Defillama 
     url:  https://defillama.com/
     img:  https://pbs.twimg.com/profile_images/1377743719089254405/LQwS_x0l_200x200.jpg
@@ -163,12 +159,28 @@ dataAnalyze:
     description: 合约多空比
   - name: Eigenphi 
     url:  https://eigenphi.io/
-    img:  https://pbs.twimg.com/profile_images/1497044326102478851/XX8ql646_400x400.jpg
+    img:  /images/logos/eigenphi.png 
     description: 实时mev数据分析
   - name: Tokenterminal 
     url:  https://tokenterminal.com/
-    img:  https://pbs.twimg.com/profile_images/1391638489674956800/BtWIWQZJ_400x400.jpg
+    img:  /images/logos/tokenterminal.jpeg  
     description: 实时mev数据分析
+  - name: Artemis 
+    url:  https://www.artemis.xyz/
+    img:  /images/logo-2.png
+    description: 快速查看链上数据、例如日活跃地址、日交易量等，支持多链
+  - name: CoinMarketCal 
+    url:  https://coinmarketcal.com
+    img:  /images/logo-2.png
+    description: 展示加密货币的一些最重要的事。从会议和 AMA 到新产品发布，应有尽有。
+  - name: Panewslab
+    url:  https://www.panewslab.com/tools
+    img:  /images/logos/panewslab.jpeg 
+    description: 工具导航
+  - name: Watchers
+    url:  https://www.watchers.pro/
+    img:  /images/logos/watchers.jpeg
+    description: 链上账号追踪工具箱
 
 nodeProvider:
   - name: Alchemy
@@ -177,7 +189,7 @@ nodeProvider:
     description: web3开发者平台
   - name: ChainBase
     url:  https://chainbase.online/
-    img:  https://pbs.twimg.com/profile_images/1483050749781487618/dLFnBl2O_200x200.jpg
+    img:  /images/logos/chainbase.png  
     description: web3开发者平台
   - name: Infura
     url:  https://infura.io/
