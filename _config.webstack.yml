@@ -181,6 +181,10 @@ dataAnalyze:
     url:  https://www.watchers.pro/
     img:  /images/logos/watchers.jpeg
     description: 链上账号追踪工具箱
+  - name: Metasleuth
+    url:  https://metasleuth.io/
+    img:  /images/logos/metasleuth.jpeg
+    description: 链上账号追踪工具箱
 
 nodeProvider:
   - name: Alchemy
