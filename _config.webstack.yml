@@ -149,6 +149,10 @@ dataAnalyze:
     url:  https://platform.spotonchain.ai
     img:  https://favicon.splitbee.io/?url=platform.spotonchain.ai
     description: 链上数据分析平台
+  - name: Transpose.io
+    url:  https://transpose.io
+    img:  https://favicon.splitbee.io/?url=transpose.io
+    description: 链上数据分析平台,SQL 查询链上数据
   - name: Nansen.ai
     url:  https://www.nansen.ai/
     img:  https://favicon.splitbee.io/?url=www.nansen.ai
