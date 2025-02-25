@@ -56,35 +56,39 @@ menu:
 dataScan:
   - name: EtherScan
     url:  https://etherscan.io/
-    img:  https://afox-1256168983.cos.ap-shanghai.myqcloud.com/20220814094411.png
+    img:  https://favicon.splitbee.io/?url=etherscan.io
     description: ETH 智能链浏览器
   - name: BSCScan
     url:  https://bscscan.com/
-    img:  https://afox-1256168983.cos.ap-shanghai.myqcloud.com/20220814094308.png
+    img:  https://favicon.splitbee.io/?url=bscscan.com
     description: BNB 智能链浏览器
   - name: PolygonScan
     url:  https://polygonscan.com/
-    img:  https://polygonscan.com/images/favicon.ico
+    img:  https://favicon.splitbee.io/?url=polygonscan.com
     description: polygon 智能链浏览器
   - name: Solscan
     url:  https://solscan.io/
-    img:  https://afox-1256168983.cos.ap-shanghai.myqcloud.com/20220814094532.png
+    img:  https://favicon.splitbee.io/?url=solscan.io
     description: SolScan 智能链浏览器
+  - name: SolscanFM
+    url:  https://solscan.fm/
+    img:  https://favicon.splitbee.io/?url=solscan.fm
+    description: SolScan 智能链浏览器 
   - name: Oklink
     url:  https://www.oklink.com/zh-cn
-    img:  https://afox-1256168983.cos.ap-shanghai.myqcloud.com/20220814094702.png
+    img:  https://favicon.splitbee.io/?url=www.oklink.com
     description: 聚合区块链浏览器
   - name: DeBank
     url:  https://debank.com/
-    img:  /images/logos/debank.svg
+    img:  https://favicon.splitbee.io/?url=debank.com
     description: 资产聚合查询
   - name: Coingecko
     url:  https://www.coingecko.com/
-    img:  /images/logos/coingecko.jpeg 
+    img:  https://favicon.splitbee.io/?url=www.coingecko.com
     description: 加密货币汇率、图表和加密货币市值
   - name: Coinmarketcap
     url:  https://coinmarketcap.com
-    img:  /images/logos/coinmarketcap.jpeg 
+    img:  https://favicon.splitbee.io/?url=coinmarketcap.com
     description: 数字货币行情,最新加密货币价格走势
 
 devTutorial:
@@ -94,129 +98,133 @@ devTutorial:
   #   description: 子页面测试
   - name: WTFSolidity
     url:  https://wtf.academy/
-    img:  https://wtf.academy/img/wtflogo.png
+    img:  https://favicon.splitbee.io/?url=wtf.academy
     description: WTFSolidity 面向Web2程序员的Web3开源学院
   - name: WTFEthers
     url:  https://wtf.academy/
-    img:  https://wtf.academy/img/wtflogo.png
+    img:  https://favicon.splitbee.io/?url=wtf.academy
     description: WTFSolidity 面向Web2程序员的Web3开源学院
   - name: Solidity by Example
     url:  https://solidity-by-example.org/
-    img:  https://solidity-by-example.org/static/media/logo.ed2942c41ca20fd4f70a.png
+    img:  https://favicon.splitbee.io/?url=solidity-by-example.org
     description: an introduction to Solidity with simple examples
   - name: Solidity
     url:  https://docs.soliditylang.org/
-    img:  https://solidity-by-example.org/static/media/logo.ed2942c41ca20fd4f70a.png
+    img:  https://favicon.splitbee.io/?url=docs.soliditylang.org
     description: solidity doc
   
 
 nft:
   - name: NFTscan
     url:  https://nftscan.com/
-    img:  /images/logos/nftscan.png  
+    img:  https://favicon.splitbee.io/?url=nftscan.com
     description: 以太坊的 NFT 探索者
   - name: NFTnerds
     url:  https://nftnerds.ai/
-    img:  https://nftnerds.ai/logo.svg
+    img:  https://favicon.splitbee.io/?url=nftnerds.ai
     description: NFT趋势追踪
   - name: NFTtrack
     url:  https://nfttrack.ai
-    img:  /images/logos/nfttrack.jpeg
+    img:  https://favicon.splitbee.io/?url=nfttrack.ai
     description: 跟踪NFT鲸鱼赚钱  
   - name: NFTgo
     url:  https://nftgo.io/
-    img:  https://pbs.twimg.com/profile_images/1475300585196777472/GYA3Y-EC_200x200.jpg
+    img:  https://favicon.splitbee.io/?url=nftgo.io
     description: NFT趋势追踪
   - name: NFTflip
     url:  https://review.nftflip.ai/signin?invite=TOOL3
-    img:  https://pbs.twimg.com/profile_images/1524929130424283136/-KrhIWnu_200x200.jpg
+    img:  https://favicon.splitbee.io/?url=nftflip.ai
     description: 帮助NFT交易者快速的抓住交易机会
 
 dataAnalyze:
   - name: Dune.xyz
     url:  https://dune.com/
-    img:  https://dune.com/assets/glyph-128w.png
+    img:  https://favicon.splitbee.io/?url=dune.com
     description: Dune链上数据分析平台.提供数据可视化、数据分析等功能
-  - name: Dunedl.com
-    url:  https://dunedl.com/
-    img:  https://dune.com/assets/glyph-128w.png
-    description: 下载Dune的数据
+  - name: Circular.bot
+    url:  http://circular.bot/ 
+    img:  https://favicon.splitbee.io/?url=circular.bot
+    description: Advanced statistics and tools for arbitrage on Solana.
+  - name: SpotOnChain
+    url:  https://platform.spotonchain.ai
+    img:  https://favicon.splitbee.io/?url=platform.spotonchain.ai
+    description: 链上数据分析平台
   - name: Nansen.ai
     url:  https://www.nansen.ai/
-    img:  https://afox-1256168983.cos.ap-shanghai.myqcloud.com/20220814094157.png
+    img:  https://favicon.splitbee.io/?url=www.nansen.ai
     description: 链上聪明地址分析查询
   - name: Messari.io
     url:  https://messari.io/
-    img:  https://afox-1256168983.cos.ap-shanghai.myqcloud.com/20220813064557.png
+    img:  https://favicon.splitbee.io/?url=messari.io
     description: 区块链技术指标查询工具
   - name: Glassnode 
     url:  https://glassnode.com/
-    img:  https://img.foresightnews.pro/202208/8-1659600018811.png 
+    img:  https://favicon.splitbee.io/?url=glassnode.com
     description: Glassnode 提供链上数据指标分析平台
   - name: Defillama 
     url:  https://defillama.com/
-    img:  https://pbs.twimg.com/profile_images/1377743719089254405/LQwS_x0l_200x200.jpg
+    img:  https://favicon.splitbee.io/?url=defillama.com
     description: 链上DEFI面板
   - name: Datamish 
     url:  https://datamish.com/
-    img:  https://afox-1256168983.cos.ap-shanghai.myqcloud.com/20220817164837.png
+    img:  https://favicon.splitbee.io/?url=datamish.com
     description: 合约多空比
   - name: Eigenphi 
     url:  https://eigenphi.io/
-    img:  /images/logos/eigenphi.png 
+    img:  https://favicon.splitbee.io/?url=eigenphi.io
     description: 实时mev数据分析
   - name: Tokenterminal 
     url:  https://tokenterminal.com/
-    img:  /images/logos/tokenterminal.jpeg  
+    img:  https://favicon.splitbee.io/?url=tokenterminal.com
     description: 实时mev数据分析
   - name: Artemis 
     url:  https://www.artemis.xyz/
-    img:  /images/logo-2.png
+    img:  https://favicon.splitbee.io/?url=www.artemis.xyz
     description: 快速查看链上数据、例如日活跃地址、日交易量等，支持多链
   - name: CoinMarketCal 
     url:  https://coinmarketcal.com
-    img:  /images/logo-2.png
+    img:  https://favicon.splitbee.io/?url=coinmarketcal.com
     description: 展示加密货币的一些最重要的事。从会议和 AMA 到新产品发布，应有尽有。
   - name: Panewslab
     url:  https://www.panewslab.com/tools
-    img:  /images/logos/panewslab.jpeg 
+    img:  https://favicon.splitbee.io/?url=www.panewslab.com
     description: 工具导航
   - name: Watchers
     url:  https://www.watchers.pro/
-    img:  /images/logos/watchers.jpeg
+    img:  https://favicon.splitbee.io/?url=www.watchers.pro
     description: 链上账号追踪工具箱
   - name: Metasleuth
     url:  https://metasleuth.io/
-    img:  /images/logos/metasleuth.jpeg
+    img:  https://favicon.splitbee.io/?url=metasleuth.io
     description: 链上账号追踪工具箱
 
 nodeProvider:
   - name: Alchemy
     url:  https://www.alchemy.com/
-    img:  https://afox-1256168983.cos.ap-shanghai.myqcloud.com/20220814095312.png
+    img:  https://favicon.splitbee.io/?url=www.alchemy.com
     description: web3开发者平台
   - name: ChainBase
     url:  https://chainbase.online/
-    img:  /images/logos/chainbase.png  
+    img:  https://favicon.splitbee.io/?url=chainbase.online
     description: web3开发者平台
   - name: Infura
     url:  https://infura.io/
-    img:  https://pbs.twimg.com/profile_images/1357501845145485316/yo6M6Y9u_200x200.jpg
+    img:  https://favicon.splitbee.io/?url=infura.io
     description: web3节点提供者
   - name: Blocknative
     url:  https://www.blocknative.com/
-    img:  https://www.blocknative.com/hubfs/Icons%20and%20Illustrations/blocknative%20favicon.png
+    img:  https://favicon.splitbee.io/?url=www.blocknative.com
     description: 领先的数据提供者
 
 
 devTools:
   - name: Github
     url: https://github.com/
-    img: /images/logos/github.png
+    img: https://favicon.splitbee.io/?url=github.com
     description: 面向开源及私有软件项目的托管平台
   - name: Github
     url: https://github.com/
-    img: /images/logos/github.png
+    img: https://favicon.splitbee.io/?url=github.com
     description: 面向开源及私有软件项目的托管平台
 
 
