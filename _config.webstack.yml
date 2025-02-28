@@ -141,6 +141,10 @@ dataAnalyze:
     url:  https://dune.com/
     img:  https://favicon.splitbee.io/?url=dune.com
     description: Dune链上数据分析平台.提供数据可视化、数据分析等功能
+  - name: coinglass
+    url:  https://www.coinglass.com/
+    img:  https://favicon.splitbee.io/?url=coinglass.com
+    description: 期货爆仓数据分析，热力图
   - name: Circular.bot
     url:  http://circular.bot/ 
     img:  https://favicon.splitbee.io/?url=circular.bot
